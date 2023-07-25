@@ -1,0 +1,59 @@
+{
+	"id": 783,
+	"name": "the german Bread & r/Brot",
+	"description": "The famous german Bread is a traditional food baked from a dough made from ground cereals (flour), water, a leavening agent and usually other ingredients. Bread is one of the staple foods.\n\nr/Brot is the german subreddit dedicated for bread. (lit. Brot = Bread)\n\nA group of 8 friends started on friday to add among us into the bread that face each other. Later they added a heart between them with ~6 people left. Mellisaurus, one of the friends added a dinosaur to the left of the bread monday night. Later on monday they added a cookie monster to honor one of the other friends, Kruemmel. Then they turned the o of brot into a cookie and let the monster grab it. Just before the event started they added a bee into the heart and tried to clean everything up, but then only grey, white and black colors were left.",
+	"links": {
+		"website": [
+			"https://de.wikipedia.org/wiki/Brot"
+		],
+		"subreddit": [
+			"brot",
+			"placede"
+		],
+		"discord": [
+			"placede"
+		]
+	},
+	"path": {
+		"97-256": [
+			[
+				774,
+				-450
+			],
+			[
+				812,
+				-448
+			],
+			[
+				813,
+				-419
+			],
+			[
+				775,
+				-419
+			],
+			[
+				758,
+				-435
+			],
+			[
+				754,
+				-443
+			],
+			[
+				801,
+				-471
+			],
+			[
+				816,
+				-449
+			]
+		]
+	},
+	"center": {
+		"97-256": [
+			781,
+			-434
+		]
+	}
+}
